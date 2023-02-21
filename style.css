@@ -1,0 +1,31 @@
+.main {
+    width: 100%;
+    background-color: #612940;
+    background-position: center;
+    background-size: cover;
+}
+.main ul li a {
+    color: #fdecef;
+}
+.main a img {
+    border-radius: 50%;
+}
+.nav-item{
+    margin-right: 16px;
+    margin-left: 16px;
+}
+.container-default {
+    max-width: 1364px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 24px;
+    padding-left: 24px;
+    flex: 1;
+}
+.split-content {
+    flex: 1;
+}
+.container-default a:hover {
+    color: #0F110C;
+    transition: 0.4s ease;
+}
